@@ -90,9 +90,9 @@ Further details about CLI can be found [here](https://github.com/t-Team-18/futur
 
 <img src = "./images/app_arch.svg"/>
 
-## Presentation Link
+<!--- ## Presentation Link
 
-Click [here](https://drive.google.com/file/d/19EcxHgoRgxPj2fVTqyghJm2dEKWvlDyh/view?usp=sharing) to view the full presentation!
+Click [here](https://drive.google.com/file/d/19EcxHgoRgxPj2fVTqyghJm2dEKWvlDyh/view?usp=sharing) to view the full presentation! -->
 
 ## Demo Video Link
 Click [here](https://drive.google.com/file/d/1S7TsyNjqOf85gCzZZN_qazOKyxxFSftp/view?usp=sharing) to see a working demo!
